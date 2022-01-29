@@ -1,0 +1,5 @@
+'count-correct', (0, 70)
+'repeated-correct', (512, 70)
+'scale-correct', (1024, 70)
+'hailstone-correct', (1536, 70)
+'merge-correct', (2048, 70)
