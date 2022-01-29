@@ -1,0 +1,8 @@
+'has_path-correct', (0, 70)
+'planet-correct', (512, 70)
+'size-correct', (1024, 70)
+'total_weight-correct', (1536, 70)
+'balanced-correct', (2048, 70)
+'totals_tree-correct', (2560, 70)
+'preorder-correct', (3072, 70)
+'insert_items-correct', (3584, 70)
