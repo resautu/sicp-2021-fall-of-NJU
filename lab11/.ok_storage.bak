@@ -1,0 +1,5 @@
+'bluedog-correct', (0, 70)
+'matchmaker-correct', (512, 70)
+'sevens-correct', (1024, 70)
+'avg_difference-correct', (1536, 70)
+'smallest_int_having-correct', (2048, 70)

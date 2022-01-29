@@ -1,0 +1,6 @@
+'find-correct', (0, 70)
+'def-correct', (512, 70)
+'k-curry-correct', (1024, 70)
+'let-correct', (1536, 70)
+'make-change-correct', (2048, 70)
+'find-nest-correct', (2560, 70)

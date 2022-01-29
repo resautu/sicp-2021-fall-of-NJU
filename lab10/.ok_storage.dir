@@ -1,0 +1,7 @@
+'filter-stream-correct', (0, 70)
+'slice-correct', (512, 70)
+'factorials-correct', (1024, 70)
+'fibs-correct', (1536, 70)
+'exp-correct', (2048, 70)
+'nondecrease-correct', (2560, 70)
+'wwsd-correct', (3072, 70)
