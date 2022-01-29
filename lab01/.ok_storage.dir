@@ -1,0 +1,5 @@
+'factorial-correct', (0, 70)
+'is_triangle-correct', (512, 70)
+'number_of_six-correct', (1024, 70)
+'max_digit-correct', (1536, 70)
+'both_odd-correct', (2048, 70)
